@@ -1,0 +1,2 @@
+-instale y utilize react icons 
+- es con una base de datos simulada llamada data.js
